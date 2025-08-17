@@ -1,16 +1,23 @@
-## Hi there 👋
+## MD. Farhad Hossan - Software Engineer
+I am MD. Farhad Hossan. I am a software engineer from Bangladesh. I am highly interested in learning and working with cutting-edge technologies. I work with a technology independent mindset and always looking to build softaware systems which can scale for zero to million of users.
+## Skills
+* Javascript, Typescript, PHP, C/C++.
+* Node js, Express js, Nest js, Laravel
+* SQL(MySQL, Postgres, SQLite), NoSQL(MongoDB, Redis)
+* HTML, CSS, Bootstrap, Tailwind CSS, jQuery, Material UI, Shadcn, React js, Next js.
+* Github, Gitlab, Docker, Postman
+* VS code, Web Storm, PHP Storm, ClickUP
+* Data Structures & Algorithms, SOLID.
+## Github Stats
+![Sadman's stat](https://github-readme-stats.vercel.app/api?username=FarhadDev&show_icons=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarhadDev)
+  
+## Currently doing
+- 🔭 Learning Database Optimization.
+- 🌱 Learning System Design. 
+## Work Experience
+* Junior Software Engineer (SoftBd Ltd.)
 
-<!--
-**Farhad-26/Farhad-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔗 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/md-farhad-hossan-6b2b63253/)   
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
