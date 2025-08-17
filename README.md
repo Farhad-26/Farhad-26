@@ -9,8 +9,8 @@ I am MD. Farhad Hossan. I am a software engineer from Bangladesh. I am highly in
 * VS code, Web Storm, PHP Storm, ClickUP
 * Data Structures & Algorithms, SOLID.
 ## Github Stats
-![Sadman's stat](https://github-readme-stats.vercel.app/api?username=FarhadDev&show_icons=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=FarhadDev)
+![Sadman's stat](https://github-readme-stats.vercel.app/api?username=Farhad-26&show_icons=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Farhad-26)
   
 ## Currently doing
 - 🔭 Learning Database Optimization.
